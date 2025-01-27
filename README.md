@@ -1,4 +1,4 @@
-# Agaetis Assignment
+# Blog
 
 The project code is in master branch
 
